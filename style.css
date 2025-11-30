@@ -1,17 +1,28 @@
-.hover { padding: 15px;
+.hover { 
+  padding: 15px;
 background: green;
-color: white; one;
+color: white; 
+  one;
 }
-.hover :hover {
-background: darkgreen; transform: scale (1.1);
+
+.hover:hover {
+background: darkgreen;
+  transform: scale (1.1);
 }
-.options { display: none;
+
+.options { 
+  display: none;
 background: grey;
 padding: 4px;
 }
+
+
 .dropdown :hover .options 1
 display: block;
-.options a { display: block;
+}
+
+.options a {
+  display: block;
 padding: 5px;
 text-decoration: none;
 color: black;
